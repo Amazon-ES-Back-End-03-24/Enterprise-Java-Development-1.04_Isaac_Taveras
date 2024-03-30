@@ -31,8 +31,8 @@ public class Main {
     }
 
     private static void calculoMatematico() {
-        double x = 4;
-        double y = 2;
+        double x = 6;
+        double y = 4;
         double res = Math.pow(x,2) + Math.pow(((4*y)/5 - x), 2);
 
         System.out.println("El resultado de la operación es: " + res);
